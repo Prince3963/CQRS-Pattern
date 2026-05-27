@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Behaviors\" />
+    <Folder Include="Common\Models\" />
+    <Folder Include="Common\Responses\" />
+    <Folder Include="Common\Exceptions\" />
+    <Folder Include="Features\Products\DTOs\" />
+    <Folder Include="Features\Products\Mappings\" />
+    <Folder Include="Features\Products\Validators\" />
+    <Folder Include="Features\Products\Commands\CreateProduct\" />
+    <Folder Include="Features\Products\Commands\UpdateProduct\" />
+    <Folder Include="Features\Products\Commands\DeleteProduct\" />
+    <Folder Include="Features\Products\Queries\GetProductById\" />
+    <Folder Include="Features\Products\Queries\GetProducts\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\CQRS.ProductManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

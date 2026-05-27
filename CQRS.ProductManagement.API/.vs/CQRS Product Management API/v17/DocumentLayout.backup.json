@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Invetal Data Labs\\CQRS Pattern\\CQRS Product Management API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0917A402-F414-4256-8472-BBF5F731C308}|..\\Persistence\\CQRS.ProductManagement.Persistence.csproj|d:\\invetal data labs\\cqrs pattern\\persistence\\cqrs.productmanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF728AE-024B-4FBC-98CD-52C6780F743B}|..\\Infrastructure\\CQRS.ProductManagement.Infrastructure.csproj|d:\\invetal data labs\\cqrs pattern\\infrastructure\\cqrs.productmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2188F3-0965-449F-B7ED-DA686172087E}|..\\Domain\\CQRS.ProductManagement.Domain.csproj|d:\\invetal data labs\\cqrs pattern\\domain\\cqrs.productmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A695F5-AB7A-4885-896B-B2F27294019C}|..\\Application\\CQRS.ProductManagement.Application.csproj|d:\\invetal data labs\\cqrs pattern\\application\\cqrs.productmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659D2B5A-FACE-4F00-8E3A-50CF82A5DADD}|CQRS.ProductManagement.Api.csproj|d:\\invetal data labs\\cqrs pattern\\cqrs product management api\\cqrs.productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{659D2B5A-FACE-4F00-8E3A-50CF82A5DADD}|CQRS.ProductManagement.Api.csproj|solutionrelative:cqrs.productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CQRS.ProductManagement.Persistence.csproj",
+              "DocumentMoniker": "D:\\Invetal Data Labs\\CQRS Pattern\\Persistence\\CQRS.ProductManagement.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\Persistence\\CQRS.ProductManagement.Persistence.csproj",
+              "ToolTip": "D:\\Invetal Data Labs\\CQRS Pattern\\Persistence\\CQRS.ProductManagement.Persistence.csproj",
+              "RelativeToolTip": "..\\Persistence\\CQRS.ProductManagement.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T05:22:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CQRS.ProductManagement.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Invetal Data Labs\\CQRS Pattern\\Infrastructure\\CQRS.ProductManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\CQRS.ProductManagement.Infrastructure.csproj",
+              "ToolTip": "D:\\Invetal Data Labs\\CQRS Pattern\\Infrastructure\\CQRS.ProductManagement.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\CQRS.ProductManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T05:22:10.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CQRS.ProductManagement.Domain.csproj",
+              "DocumentMoniker": "D:\\Invetal Data Labs\\CQRS Pattern\\Domain\\CQRS.ProductManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\CQRS.ProductManagement.Domain.csproj",
+              "ToolTip": "D:\\Invetal Data Labs\\CQRS Pattern\\Domain\\CQRS.ProductManagement.Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\CQRS.ProductManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T05:22:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CQRS.ProductManagement.Application.csproj",
+              "DocumentMoniker": "D:\\Invetal Data Labs\\CQRS Pattern\\Application\\CQRS.ProductManagement.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Application\\CQRS.ProductManagement.Application.csproj",
+              "ToolTip": "D:\\Invetal Data Labs\\CQRS Pattern\\Application\\CQRS.ProductManagement.Application.csproj",
+              "RelativeToolTip": "..\\Application\\CQRS.ProductManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T05:21:59.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CQRS.ProductManagement.API.csproj",
+              "DocumentMoniker": "D:\\Invetal Data Labs\\CQRS Pattern\\CQRS Product Management API\\CQRS.ProductManagement.API.csproj",
+              "RelativeDocumentMoniker": "CQRS.ProductManagement.API.csproj",
+              "ToolTip": "D:\\Invetal Data Labs\\CQRS Pattern\\CQRS Product Management API\\CQRS.ProductManagement.API.csproj",
+              "RelativeToolTip": "CQRS.ProductManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T05:21:57.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

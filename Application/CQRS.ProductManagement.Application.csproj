@@ -11,15 +11,18 @@
     <Folder Include="Common\Models\" />
     <Folder Include="Common\Responses\" />
     <Folder Include="Common\Exceptions\" />
-    <Folder Include="Features\Products\DTOs\" />
     <Folder Include="Features\Products\Mappings\" />
     <Folder Include="Features\Products\Validators\" />
-    <Folder Include="Features\Products\Commands\CreateProduct\" />
     <Folder Include="Features\Products\Commands\UpdateProduct\" />
     <Folder Include="Features\Products\Commands\DeleteProduct\" />
     <Folder Include="Features\Products\Queries\GetProductById\" />
     <Folder Include="Features\Products\Queries\GetProducts\" />
-    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="12.1.1" />
+    <PackageReference Include="MediatR" Version="12.5.0" />
   </ItemGroup>
 
   <ItemGroup>
